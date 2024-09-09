@@ -1,14 +1,14 @@
 {
   "name": "reverse-engineering",
   "version": "1.0.0",
-  "description": "A curated list of awesome reversing resources",
+  "description": "Checklist of awesome reversing resources",
   "main": "index.js",
   "scripts": {
     "test": "remark README.md -f"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wtsxDev/reverse-engineering.git"
+    "url": "git+https://github.com/DeffreusTheda/reverse-engineering.git"
   },
   "keywords": [
     "reverse-engineering",
@@ -18,9 +18,9 @@
   "author": "wtsxDev",
   "license": "",
   "bugs": {
-    "url": "https://github.com/wtsxDev/reverse-engineering/issues"
+    "url": "https://github.com/DeffreusTheda/reverse-engineering/issues"
   },
-  "homepage": "https://github.com/wtsxDev/reverse-engineering#readme",
+  "homepage": "https://github.com/DeffreusTheda/reverse-engineering#readme",
   "dependencies": {
     "remark": "^8.0.0",
     "remark-cli": "^4.0.0",
